@@ -1,0 +1,88 @@
+body {
+    margin: 0px;
+    background-image: url(Images/Backdrop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#button-area{
+    width: 16.66666667%;
+    margin: 0px;
+    border: 1px;
+    padding: 0px;
+    float: left;
+    background-color: #0aad67;
+    border-color: #244537;
+    border-style: solid;
+    cursor: pointer;
+    height: 50px;
+    margin-bottom: 30px;
+}
+
+#button-area:hover{
+    background-color: #088a52;
+}
+#button-text{
+    color: white;
+    font-family: "Galada";
+    font-size: 25px;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}
+#Normal_Text{
+    color: floralwhite;
+    font-family: "Marmelad";
+}
+main{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#Normal_VID{
+    border-style: solid;
+    border-width: 1px;
+    border-color: floralwhite;
+    border-radius: 5px;
+}
+#Titel{
+    color: floralwhite;
+    font-family: "Federant";
+    font-weight: 2000;
+}
+
+table,th,td{
+    border: 2px solid black;
+    background-color: floralwhite;
+    font-family: "Lobster";
+}
+footer{
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    width: 100%;
+    left: 0px;
+    color: floralwhite;
+    font-family: "Press Start 2P";
+    font-weight: 100;
+    font-size: 10px;
+    margin: 0px;
+}
+table{
+    border-radius: 5px;
+}
+#centertable{
+    text-align: center;
+}
+ul,li{
+    padding: 0px;
+    margin: 0px;
+    text-align: left;
+    color: floralwhite;
+    font-family: "lobster";
+}
+audio{
+    margin-bottom: 10px;
+}
+a{
+	color: floralwhite;
+}
